@@ -1,0 +1,2 @@
+# actionsの準備
+リポジトリの設定からSecret(PACKAGE_ACCESS_TOKEN)の設定
